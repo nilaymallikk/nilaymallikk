@@ -1,157 +1,247 @@
 <div align="center">
 
-# Hi, I'm Nilay Mallik 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Nilay%20Mallik&fontAlignY=35&fontSize=55&desc=Building%20AI%20systems%20that%20retrieve%2C%20reason%2C%20act%20and%20remember&descAlignY=57&animation=fadeIn" alt="Nilay Mallik banner" />
 
-### AI Engineer in the making · Agentic AI · RAG · Multi-Agent Systems
+<a href="https://x.com/nilaymallikX">
+  <img src="https://img.shields.io/badge/X-@nilaymallikX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.linkedin.com/in/nilaymallik/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nilay%20Mallik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nilaymallikk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<p>to get a fast reply dm me on X<p/>
 
-I build and ship end-to-end AI applications using **LangChain, LangGraph, FastAPI, vector databases, and modern LLM APIs**.
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilay%20Mallik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilaymallik/)
-[![X](https://img.shields.io/badge/X-@nilaymallikX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nilaymallikX)
-[![Email](https://img.shields.io/badge/Email-nilaymallikk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilaymallikk@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&center=true&vCenter=true&width=760&lines=Agentic+AI+%7C+RAG+%7C+Multi-Agent+Systems;LangGraph+workflows+that+do+more+than+chat;Retrieval%2C+memory%2C+tools%2C+streaming+and+state;Learning+by+building.+Improving+by+shipping." alt="Typing introduction" />
 
 </div>
 
 ---
 
+> **My projects focus on more than calling an LLM API. They combine retrieval, orchestration, memory, tools, streaming and persistent state to create complete AI applications.**
+
+## `nilay@github:~$ whoami`
+
+```yaml
+name: Nilay Mallik
+education: B.Tech in Computer Science and Engineering
+university: KIIT University, Bhubaneswar
+graduation: 2027
+
+direction:
+  - AI Engineering
+  - Agentic AI Systems
+  - Retrieval-Augmented Generation
+  - Multi-Agent Applications
+
+build_philosophy: "Understand the system. Build the system. Ship the system."
+```
+
 ## About Me
 
-- Focused on **Agentic AI, Retrieval-Augmented Generation, and multi-agent systems**
-- Building production-style AI systems with memory, tools, streaming, retrieval, and persistent state
-- Interested in **AI Engineer / Agentic AI Engineer internships**
+I enjoy working at the point where AI meets backend engineering.
 
----
+-  **What I build:** agentic assistants, RAG systems, multi-agent workflows and LLM-powered applications
+-  **What interests me:** tool routing, retrieval quality, reranking, long-term memory and persistent state
+-  **How my projects are structured:** define the workflow, connect the required tools and data, preserve state, then expose the system through a usable interface
+-  **What my projects emphasize:** clear workflow design, stronger retrieval, persistent context and complete user-facing applications
+-  **What I enjoy shipping:** complete projects with an API, interface, database, streaming and deployment setup
+-  **What I am developing:** stronger AI system-design and production-engineering skills
+-  **Where I am heading:** becoming an AI engineer who can take an idea from architecture to deployment
+-  **What I am open to:** internships, technical collaborations and conversations about agentic AI or RAG
 
-## Tech Stack
+## My AI Engineering Map
 
-### Languages
+```mermaid
+flowchart LR
+    A[User Intent] --> B[Workflow Orchestration]
+    B --> C{Route the Request}
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+    C --> D[Tools]
+    C --> E[Retrieval]
+    C --> F[Conversation Memory]
 
-### AI, LLMs & Agentic Systems
+    D --> G[LLM Reasoning]
+    E --> G
+    F --> G
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-2E6F40?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-8A2BE2?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-black?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=flat-square)
+    G --> H[Stream the Result]
+    H --> I[Persist State]
+    I --> J[Useful AI Application]
+```
 
-### Backend, Databases & DevOps
+<div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Retrieve → Route → Reason → Act → Stream → Remember → Ship**
 
----
+</div>
 
-## Featured Projects
+## What I Build Around the Model
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Layer | What I Work With |
+|---|---|
+| **Orchestration** | LangGraph state machines, conditional routing, parallel workflows and multi-agent coordination |
+| **Retrieval** | Dense vector search, BM25, hybrid retrieval, Reciprocal Rank Fusion and reranking |
+| **Memory & State** | Redis conversation memory, PostgreSQL checkpointing and thread-isolated vector collections |
+| **Interfaces** | FastAPI backends, Streamlit applications, browser interfaces and REST APIs |
+| **Real-time UX** | Server-Sent Events and token or pipeline-stage streaming |
+| **Infrastructure** | Docker, GitHub Actions, databases, vector stores and deployable project structures |
 
-### [Nilora](https://github.com/nilaymallikk/Nilora)
+## Technical Toolbox
 
-A production-style **agentic AI chatbot** built with LangGraph.
+### Core Languages
 
-- Conditional tool routing
-- Web search and calculator tools
-- Multi-format document RAG
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres" alt="Python, JavaScript, and SQL/PostgreSQL" />
+</p>
+
+### AI & Agentic Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-Stateful%20Agents-2E6F40?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-6C63FF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Systems-8A2BE2?style=for-the-badge" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge" alt="Model Context Protocol" />
+</p>
+
+### Backend, Data & Delivery
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,sqlite,docker,git,githubactions" alt="Backend, data and DevOps tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6446?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-000000?style=flat-square" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Streamlit-Application%20UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SSE-Real--time%20Streaming-009688?style=flat-square" alt="Server-Sent Events" />
+</p>
+
+### Development Environment
+
+```yaml
+OS: Fedora Linux (primary os that i use)
+Desktop: GNOME
+Editor: VS Code, Cursor
+Shell: Bash, Fish
+Containerization: Docker
+Version Control: Git & GitHub
+```
+
+## Selected Systems
+
+### 01 [Nilora](https://github.com/nilaymallikk/Nilora)
+**An agentic AI chatbot designed as a stateful system rather than a single prompt-response loop.**
+
+```text
+User request
+   └── LangGraph router
+         ├── Web search
+         ├── Calculator
+         ├── Document retrieval
+         └── Long-term memory
+                └── Streamed response + persistent conversation state
+```
+
+**Engineering highlights**
+
+- Conditional tool routing through a LangGraph state machine
+- Multi-format RAG for PDF, DOCX, TXT, Markdown, Python and CSV files
+- Thread-isolated ChromaDB collections for private conversation retrieval
 - Persistent cross-session memory
-- SSE token streaming
-- Speech-to-text input
-- Dockerized deployment
+- SSE token streaming and speech-to-text input
+- Dockerized application setup
 
-**Tech:** Python, FastAPI, LangChain, LangGraph, Gemini, ChromaDB, Docker
-
-</td>
-<td width="50%" valign="top">
-
-### [MLGPT](https://github.com/nilaymallikk/MLGPT)
-
-A production-style **hybrid RAG chatbot** with advanced retrieval.
-
-- Pinecone vector search
-- BM25 keyword retrieval
-- Reciprocal Rank Fusion
-- CrossEncoder reranking
-- Redis-backed conversation memory
-- FastAPI and Streamlit interface
-
-**Tech:** Python, FastAPI, Streamlit, Pinecone, Redis, LangChain
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [KinetiBlog](https://github.com/nilaymallikk/KinetiBlog)
-
-An automated **technical writing agent** powered by LangGraph.
-
-- Research-need routing
-- Web research with Tavily
-- Parallel section generation
-- Generated article visuals
-- Live SSE pipeline updates
-- PostgreSQL checkpointing
-
-**Tech:** Python, FastAPI, LangGraph, PostgreSQL, Tavily Search API
-
-</td>
-<td width="50%" valign="top">
-
-### [RoamAI](https://github.com/nilaymallikk/RoamAI)
-
-A conversational **multi-agent travel planner**.
-
-- Multi-agent trip-planning application
-- Python backend
-- JavaScript/CSS frontend
-- Docker-based deployment
-- Currently in active development
-
-**Tech:** Python, JavaScript, CSS, Docker
-
-</td>
-</tr>
-</table>
+**Stack:** `Python` `FastAPI` `LangChain` `LangGraph` `Gemini` `ChromaDB` `Docker`
 
 ---
 
-## GitHub Stats
+### 02 [MLGPT](https://github.com/nilaymallikk/MLGPT)
+**A production-style RAG chatbot focused on improving retrieval before generation.**
+
+```text
+Query
+  ├── Pinecone dense retrieval
+  └── BM25 lexical retrieval
+          ↓
+ Reciprocal Rank Fusion
+          ↓
+ CrossEncoder reranking
+          ↓
+       Generation
+```
+
+**Engineering highlights**
+
+- Hybrid retrieval using dense vector search and BM25
+- Reciprocal Rank Fusion to combine retrieval results
+- CrossEncoder reranking before generation
+- Redis-backed conversation memory
+- FastAPI service with a Streamlit chat interface
+
+**Stack:** `Python` `FastAPI` `Streamlit` `Pinecone` `Redis` `LangChain`
+
+---
+
+### 03 [KinetiBlog](https://github.com/nilaymallikk/KinetiBlog)
+**A technical-writing agent that researches, plans and drafts through a coordinated workflow.**
+
+**Engineering highlights**
+
+- Routes topics based on whether external research is required
+- Researches with the Tavily Search API
+- Plans and generates article sections in parallel
+- Merges sections and adds generated visuals
+- Streams each pipeline stage to the browser through SSE
+- Uses PostgreSQL checkpointing with an in-memory fallback
+
+**Stack:** `Python` `FastAPI` `LangGraph` `PostgreSQL` `Tavily Search API`
+
+---
+
+### 04 [RoamAI](https://github.com/nilaymallikk/RoamAI)
+**A multi-agent travel-planning application currently in active development.**
+
+**Current direction**
+
+- Python-powered application backend
+- JavaScript and CSS browser interface
+- Multi-agent trip-planning workflow
+- Docker-based delivery setup
+
+**Stack:** `Python` `JavaScript` `CSS` `Docker`
+
+## The Pattern Behind My Projects
+
+```text
+Recurring engineering questions across my projects:
+
+1. What decision does the workflow need to make?
+2. What information should be retrieved?
+3. Which tools or agents should handle each step?
+4. What context must survive across requests?
+5. How should progress be streamed to the user?
+6. Where should application state be stored?
+7. How can the complete system be packaged and shipped?
+```
+
+## GitHub Pulse
 
 <div align="left">
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nilaymallikk&hide_border=true" alt="Nilay's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=nilaymallikk&hide_border=true" alt="Nilay Mallik's GitHub contribution streak" />
 
 </div>
+<br/><br/>
 
----
+**Build deeply. Learn continuously. Ship what works.**
 
-## Let's Connect
-
-I am open to **AI engineering internships, project collaborations, and conversations about agentic AI and RAG systems**.
-
-- Email: [nilaymallikk@gmail.com](mailto:nilaymallikk@gmail.com)
-- LinkedIn: [linkedin.com/in/nilaymallik](https://www.linkedin.com/in/nilaymallik/)
-- X: [@nilaymallikX](https://x.com/nilaymallikX)
-
-<div align="center">
-
-### Build. Learn. Ship. Repeat.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="Footer wave" />
 
 </div>
