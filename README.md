@@ -1,162 +1,157 @@
-<h1 align="center">Hi 👋, I'm Nilay Mallik</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Agentic AI • LLM Applications • RAG Systems
-</h3>
+# Hi, I'm Nilay Mallik 
 
-<p align="center">
-I build production-ready AI applications using <b>LangGraph</b>, <b>LangChain</b>, <b>FastAPI</b>, and modern LLMs.
-Currently exploring autonomous agents, retrieval systems, and scalable AI infrastructure.
-</p>
+### AI Engineer in the making · Agentic AI · RAG · Multi-Agent Systems
 
----
+I build and ship end-to-end AI applications using **LangChain, LangGraph, FastAPI, vector databases, and modern LLM APIs**.
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilay%20Mallik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilaymallik/)
+[![X](https://img.shields.io/badge/X-@nilaymallikX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nilaymallikX)
+[![Email](https://img.shields.io/badge/Email-nilaymallikk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilaymallikk@gmail.com)
 
-- 🎓 Computer Science undergraduate at **KIIT University** (Class of 2027)
-- 🤖 Passionate about **Agentic AI**, **LLMs**, **RAG**, and **Multi-Agent Systems**
-- 🛠️ Building production-style AI applications from idea to deployment
-- 🌱 Currently learning **advanced AI engineering**, **system design**, and **AI infrastructure**
-- 💼 Looking for **AI Engineer / Agentic AI Engineer Internship** opportunities
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+- Focused on **Agentic AI, Retrieval-Augmented Generation, and multi-agent systems**
+- Building production-style AI systems with memory, tools, streaming, retrieval, and persistent state
+- Interested in **AI Engineer / Agentic AI Engineer internships**
+
+---
+
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
-### AI & LLM
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-- LangGraph
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Prompt Engineering
-- Model Context Protocol (MCP)
-- Scikit-learn
+### AI, LLMs & Agentic Systems
 
-### Backend
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-2E6F40?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-8A2BE2?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-black?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=flat-square)
 
-- FastAPI
-- Flask
-- Streamlit
-- REST APIs
-- Server-Sent Events (SSE)
+### Backend, Databases & DevOps
 
-### Databases
-
-- PostgreSQL
-- Redis
-- Pinecone
-- ChromaDB
-- SQLite
-
-### Tools
-
-- Docker
-- Git
-- GitHub Actions
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🧠 Nilora
-**Production-ready Agentic AI Chatbot**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- LangGraph state machine
-- Multi-tool routing
-- Long-term memory
-- Multi-format RAG
-- Speech-to-Text
+### [Nilora](https://github.com/nilaymallikk/Nilora)
+
+A production-style **agentic AI chatbot** built with LangGraph.
+
+- Conditional tool routing
+- Web search and calculator tools
+- Multi-format document RAG
+- Persistent cross-session memory
+- SSE token streaming
+- Speech-to-text input
 - Dockerized deployment
 
-**Tech**
+**Tech:** Python, FastAPI, LangChain, LangGraph, Gemini, ChromaDB, Docker
 
-`Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `ChromaDB`
+</td>
+<td width="50%" valign="top">
 
-🔗 https://github.com/nilaymallikk/Nilora
+### [MLGPT](https://github.com/nilaymallikk/MLGPT)
 
----
+A production-style **hybrid RAG chatbot** with advanced retrieval.
 
-## 📚 MLGPT
-Production-style RAG chatbot with hybrid retrieval.
-
-Features
-
-- Pinecone Vector Search
-- BM25 Search
+- Pinecone vector search
+- BM25 keyword retrieval
 - Reciprocal Rank Fusion
-- CrossEncoder Re-ranking
-- Redis Memory
-- Streamlit UI
+- CrossEncoder reranking
+- Redis-backed conversation memory
+- FastAPI and Streamlit interface
 
-🔗 https://github.com/nilaymallikk/MLGPT
+**Tech:** Python, FastAPI, Streamlit, Pinecone, Redis, LangChain
 
----
+</td>
+</tr>
 
-## ✍️ KinetiBlog
+<tr>
+<td width="50%" valign="top">
 
-AI Technical Writing Agent
+### [KinetiBlog](https://github.com/nilaymallikk/KinetiBlog)
 
-- Automated research
-- Planning
-- Article generation
+An automated **technical writing agent** powered by LangGraph.
+
+- Research-need routing
+- Web research with Tavily
+- Parallel section generation
+- Generated article visuals
+- Live SSE pipeline updates
 - PostgreSQL checkpointing
-- Parallel AI workflow
-- LangGraph orchestration
 
-🔗 https://github.com/nilaymallikk/KinetiBlog
+**Tech:** Python, FastAPI, LangGraph, PostgreSQL, Tavily Search API
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🌍 RoamAI
+### [RoamAI](https://github.com/nilaymallikk/RoamAI)
 
-Multi-Agent Travel Planner
+A conversational **multi-agent travel planner**.
 
-- Agent collaboration
-- Trip planning
-- Docker deployment
-- Modern web interface
+- Multi-agent trip-planning application
+- Python backend
+- JavaScript/CSS frontend
+- Docker-based deployment
+- Currently in active development
 
-🔗 https://github.com/nilaymallikk/RoamAI
+**Tech:** Python, JavaScript, CSS, Docker
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nilaymallikk&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilaymallikk&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilaymallikk&theme=github-dark&hide_border=true"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## GitHub Stats
 
-📧 **Email**
+<div align="left">
 
-nilaymallikk@gmail.com
+<br/>
 
-💼 **LinkedIn**
+<img src="https://streak-stats.demolab.com?user=nilaymallikk&hide_border=true" alt="Nilay's GitHub contribution streak" />
 
-https://linkedin.com/in/YOUR-LINKEDIN
-
-🐦 **X (Twitter)**
-
-https://x.com/YOUR_USERNAME
+</div>
 
 ---
 
-> "Building AI systems that solve real-world problems."
+## Let's Connect
+
+I am open to **AI engineering internships, project collaborations, and conversations about agentic AI and RAG systems**.
+
+- Email: [nilaymallikk@gmail.com](mailto:nilaymallikk@gmail.com)
+- LinkedIn: [linkedin.com/in/nilaymallik](https://www.linkedin.com/in/nilaymallik/)
+- X: [@nilaymallikX](https://x.com/nilaymallikX)
+
+<div align="center">
+
+### Build. Learn. Ship. Repeat.
+
+</div>
