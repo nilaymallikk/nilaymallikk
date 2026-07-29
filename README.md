@@ -52,8 +52,6 @@ philosophy: "Understand. Build. Ship."
 
 I enjoy working where **AI meets backend engineering**.
 
-My projects focus on the complete system around an LLM: retrieval, routing, tools, long-term memory, streaming, persistent state, APIs, databases, interfaces, and deployment.
-
 - **I build:** Agentic assistants, RAG systems, multi-agent workflows, and LLM applications
 - **I explore:** Tool routing, retrieval quality, reranking, memory, and state
 - **I ship:** Projects with APIs, interfaces, databases, streaming, and deployment
@@ -221,17 +219,11 @@ A conversational **multi-agent travel planner**.
 
 ```text
 1. What decision must the workflow make?
-
 2. What information should be retrieved?
-
 3. Which tools or agents handle each step?
-
 4. What context must survive?
-
 5. How should progress reach the user?
-
 6. Where should state be stored?
-
 7. How can the system be shipped?
 ```
 
