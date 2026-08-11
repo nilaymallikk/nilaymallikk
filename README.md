@@ -9,4 +9,4 @@ Thanks for stopping by :)
 
 ### Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nilaymallikk&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nilaymallikk&layout=compact&theme=github_dark)
