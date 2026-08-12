@@ -1,7 +1,7 @@
 I enjoy building things by learning something new every day
 
 ➤ Check out my [portfolio](https://nilaymallik.dev)  
-➤ Connect with me on [X](https://x.com/nilaymallikXL)
+➤ Connect with me on [X](https://x.com/nilaymallikX)
 ➤ and [LinkedIn](https://www.linkedin.com/in/nilaymallik/)  
 ➤ Reach me at [nilaymallikk@gmail.com](mailto:nilaymallikk@gmail.com)
 
